@@ -1,0 +1,1 @@
+{\n  "name": "ats-crm-system",\n  "private": true,\n  "workspaces": [\n    "backend/*",\n    "frontend/*"\n  ]\n}
