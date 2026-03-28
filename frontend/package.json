@@ -1,1 +1,22 @@
-{\n  "name": "ats-crm-system",\n  "version": "1.0.0",\n  "scripts": {\n    "dev": "next dev",\n    "build": "next build",\n    "start": "next start"\n  },\n  "dependencies": {\n    "next": "latest",\n    "react": "latest",\n    "react-dom": "latest",\n    "axios": "latest"\n  },\n  "devDependencies": {\n    "tailwindcss": "latest",\n    "postcss": "latest",\n    "autoprefixer": "latest"\n  }\n}
+mkdir public
+mkdir -p src/components/layout
+mkdir -p src/components/ui
+mkdir -p src/components/dashboard
+mkdir -p src/components/candidates
+mkdir -p src/components/jobs
+mkdir -p src/components/applications
+mkdir -p src/components/clients
+mkdir -p src/pages/Dashboard
+mkdir -p src/pages/Candidates
+mkdir -p src/pages/Jobs
+mkdir -p src/pages/Applications
+mkdir -p src/pages/Clients
+mkdir -p src/pages/Auth
+mkdir -p src/pages/Settings
+mkdir -p src/services
+mkdir -p src/hooks
+mkdir -p src/utils
+mkdir -p src/context
+mkdir -p src/routes
+mkdir -p src/styles
+mkdir -p src/types{\n  "name": "ats-crm-system",\n  "version": "1.0.0",\n  "scripts": {\n    "dev": "next dev",\n    "build": "next build",\n    "start": "next start"\n  },\n  "dependencies": {\n    "next": "latest",\n    "react": "latest",\n    "react-dom": "latest",\n    "axios": "latest"\n  },\n  "devDependencies": {\n    "tailwindcss": "latest",\n    "postcss": "latest",\n    "autoprefixer": "latest"\n  }\n}
